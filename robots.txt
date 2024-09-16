@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://teryleci.github.io/sitemap.html.gz
+Sitemap: https://teryleci.github.io/app/sitemap.html.gz
+Sitemap: https://teryleci.github.io/assets/sitemap.html.gz
+Sitemap: https://teryleci.github.io/css/sitemap.html.gz
+Sitemap: https://teryleci.github.io/includes/sitemap.html.gz
+Sitemap: https://teryleci.github.io/item/sitemap.html.gz
+Sitemap: https://teryleci.github.io/src/sitemap.html.gz
